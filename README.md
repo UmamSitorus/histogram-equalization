@@ -2,10 +2,10 @@
 
 Tugas UAS Mata Kuliah Pengolahan Citra Digital.
 
-## 👨‍💻 Deskripsi
+## Deskripsi
 Program ini melakukan peningkatan kualitas gambar grayscale menggunakan metode **Histogram Equalization**. Gambar asli dikonversi menjadi grayscale, lalu histogramnya diratakan untuk meningkatkan kontras dan detail gambar.
 
-## 🛠 Teknologi
+## Teknologi
 - Python
 - OpenCV
 - Matplotlib
